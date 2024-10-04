@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/ethan/Github/graphics/build",
+  "command": "/usr/bin/c++  -I/home/ethan/Github/graphics/include -g -o CMakeFiles/my_opengl_project.dir/src/main.cpp.o -c /home/ethan/Github/graphics/src/main.cpp",
+  "file": "/home/ethan/Github/graphics/src/main.cpp",
+  "output": "CMakeFiles/my_opengl_project.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/ethan/Github/graphics/build",
+  "command": "/usr/bin/cc  -I/home/ethan/Github/graphics/include -g -o CMakeFiles/my_opengl_project.dir/src/glad.c.o -c /home/ethan/Github/graphics/src/glad.c",
+  "file": "/home/ethan/Github/graphics/src/glad.c",
+  "output": "CMakeFiles/my_opengl_project.dir/src/glad.c.o"
+}
+]

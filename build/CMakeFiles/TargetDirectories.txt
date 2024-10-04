@@ -1,0 +1,3 @@
+/home/ethan/Github/graphics/build/CMakeFiles/my_opengl_project.dir
+/home/ethan/Github/graphics/build/CMakeFiles/edit_cache.dir
+/home/ethan/Github/graphics/build/CMakeFiles/rebuild_cache.dir
